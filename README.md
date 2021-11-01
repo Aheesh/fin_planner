@@ -1,3 +1,3 @@
 # Financial Planner
 
-Financial planner details about the application provide in the Jupyter lab notebook.
+Financial planner details about the application provided in the Jupyter lab notebook.
